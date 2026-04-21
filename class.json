@@ -1,0 +1,269 @@
+[
+  {
+    "label1": "Fee/Interest",
+    "label2": "Phí thường niên",
+    "definition": "Phản ánh về phí thường niên của thẻ như phí cao, không rõ cách tính.",
+    "keywords": [
+      "phí thường niên", "phi thuong nien", "annual fee",
+      "phí thẻ năm", "phí duy trì thẻ",
+      "phí cao", "không rõ cách tính phí", "phí không minh bạch"
+    ]
+  },
+  {
+    "label1": "Fee/Interest",
+    "label2": "Phí đóng thẻ",
+    "definition": "Phản ánh về phí phát sinh khi đóng hoặc hủy thẻ.",
+    "keywords": [
+      "phí đóng thẻ", "phi dong the", "phí hủy thẻ",
+      "phí tất toán thẻ", "đóng thẻ mất phí",
+      "không rõ ràng", "phí cao"
+    ]
+  },
+  {
+    "label1": "Fee/Interest",
+    "label2": "Phí phạt",
+    "definition": "Phản ánh về phí phạt trả chậm, quá hạn hoặc vi phạm điều khoản.",
+    "keywords": [
+      "phí phạt", "phi phat", "phạt trả chậm",
+      "phí trả chậm", "phí quá hạn", "late fee",
+      "phạt cao", "không rõ cách tính"
+    ]
+  },
+  {
+    "label1": "Fee/Interest",
+    "label2": "Phí/ lãi khác",
+    "definition": "Phản ánh các loại phí/lãi khác như lãi suất, phí giao dịch, phí rút tiền.",
+    "keywords": [
+      "lãi", "lãi suất", "interest",
+      "phí giao dịch", "phí rút tiền",
+      "phí chuyển đổi", "finance charge",
+      "lãi cao", "không rõ ràng"
+    ]
+  },
+  {
+    "label1": "Card Feature",
+    "label2": "Thiết kế thẻ",
+    "definition": "Thảo luận về hình thức, mẫu mã, màu sắc, chất lượng thẻ.",
+    "keywords": [
+      "thiết kế thẻ", "mẫu thẻ", "phôi thẻ",
+      "hình thẻ", "màu thẻ",
+      "thẻ đẹp", "thẻ xấu", "chất lượng thẻ"
+    ]
+  },
+  {
+    "label1": "Card Feature",
+    "label2": "Tính năng của Thẻ",
+    "definition": "Thảo luận về tính năng, ưu đãi, tiện ích và công dụng của thẻ.",
+    "keywords": [
+      "tính năng thẻ", "chức năng thẻ",
+      "ưu đãi thẻ", "benefit",
+      "tiện ích thẻ", "điểm chấp nhận thẻ",
+      "thẻ dùng được ở đâu"
+    ]
+  },
+  {
+    "label1": "Acquisition",
+    "label2": "Điều kiện mở thẻ khó khăn",
+    "definition": "Phản ánh việc khó mở thẻ, điều kiện phức tạp, bị từ chối.",
+    "keywords": [
+      "điều kiện mở thẻ", "khó mở thẻ",
+      "không đủ điều kiện", "không được duyệt",
+      "xét duyệt khó", "rớt thẻ",
+      "thủ tục rườm rà"
+    ]
+  },
+  {
+    "label1": "Acquisition",
+    "label2": "Gặp lỗi khi mở thẻ",
+    "definition": "Phản ánh lỗi trong quá trình đăng ký mở thẻ.",
+    "keywords": [
+      "lỗi mở thẻ", "đăng ký lỗi",
+      "không mở được thẻ",
+      "app lỗi mở thẻ", "submit lỗi",
+      "báo lỗi", "không thao tác được"
+    ]
+  },
+  {
+    "label1": "Limit",
+    "label2": "Hạn mức",
+    "definition": "Phản ánh về hạn mức thẻ thấp, không phù hợp hoặc yêu cầu tăng hạn mức.",
+    "keywords": [
+      "hạn mức", "credit limit",
+      "hạn mức thấp", "hạn mức 0",
+      "tăng hạn mức", "giảm hạn mức"
+    ]
+  },
+  {
+    "label1": "Card delivery",
+    "label2": "Thời gian nhận thẻ",
+    "definition": "Phản ánh việc nhận thẻ chậm hoặc không nhận được thẻ.",
+    "keywords": [
+      "chưa nhận được thẻ", "nhận thẻ chậm",
+      "giao thẻ chậm", "lâu nhận thẻ",
+      "chưa giao thẻ"
+    ]
+  },
+  {
+    "label1": "Card delivery",
+    "label2": "Nhân viên bưu tá",
+    "definition": "Phản ánh về nhân viên giao thẻ, thái độ và quy trình giao.",
+    "keywords": [
+      "bưu tá", "giao thẻ",
+      "shipper", "không giao tận tay",
+      "thái độ giao hàng"
+    ]
+  },
+  {
+    "label1": "Data leaking",
+    "label2": "Bị Spam do lộ thông tin",
+    "definition": "Phản ánh việc bị lộ thông tin dẫn đến spam hoặc mạo danh.",
+    "keywords": [
+      "lộ thông tin", "spam",
+      "bán data", "telesale",
+      "mạo danh", "gọi làm phiền"
+    ]
+  },
+  {
+    "label1": "Data leaking",
+    "label2": "Bị lừa đảo/ đưa thông tin để cảnh báo lừa đảo",
+    "definition": "Phản ánh các trường hợp lừa đảo, gian lận liên quan đến thẻ.",
+    "keywords": [
+      "lừa đảo", "gian lận",
+      "mất tiền", "bị hack thẻ",
+      "giao dịch lạ", "cảnh báo lừa đảo"
+    ]
+  },
+  {
+    "label1": "Decline transaction",
+    "label2": "Lỗi giao dịch",
+    "definition": "Phản ánh lỗi giao dịch, không thanh toán được.",
+    "keywords": [
+      "lỗi giao dịch", "transaction failed",
+      "không thanh toán được",
+      "quẹt thẻ lỗi",
+      "declined"
+    ]
+  },
+  {
+    "label1": "Locked card by Bank",
+    "label2": "NH khóa thẻ",
+    "definition": "Phản ánh việc ngân hàng khóa thẻ hoặc hạn chế sử dụng.",
+    "keywords": [
+      "khóa thẻ", "block thẻ",
+      "bị khóa thẻ", "không cho mở khóa",
+      "thẻ bị tạm khóa"
+    ]
+  },
+  {
+    "label1": "Dispute transaction",
+    "label2": "Tra soát/ Hoàn tiền sau tra soát",
+    "definition": "Phản ánh việc tra soát giao dịch và hoàn tiền.",
+    "keywords": [
+      "tra soát", "dispute",
+      "chargeback",
+      "hoàn tiền", "tra soát lâu"
+    ]
+  },
+  {
+    "label1": "Promotion",
+    "label2": "Các ưu đãi về phí thường niên",
+    "definition": "Phản ánh ưu đãi miễn/hoàn phí thường niên.",
+    "keywords": [
+      "miễn phí thường niên",
+      "hoàn phí thường niên",
+      "ưu đãi phí thường niên"
+    ]
+  },
+  {
+    "label1": "Promotion",
+    "label2": "Các ưu đãi khuyến mãi khác",
+    "definition": "Phản ánh về chương trình ưu đãi, khuyến mãi.",
+    "keywords": [
+      "ưu đãi", "khuyến mãi",
+      "promotion", "ít ưu đãi",
+      "không hấp dẫn"
+    ]
+  },
+  {
+    "label1": "Reward Program",
+    "label2": "Không/ chậm trả thưởng",
+    "definition": "Phản ánh việc không nhận hoặc chậm nhận thưởng.",
+    "keywords": [
+      "chậm trả thưởng", "không trả thưởng",
+      "không nhận được điểm",
+      "cashback chưa về"
+    ]
+  },
+  {
+    "label1": "Reward Program",
+    "label2": "Yêu cầu hóa đơn",
+    "definition": "Phản ánh việc yêu cầu cung cấp hóa đơn, chứng từ.",
+    "keywords": [
+      "yêu cầu hóa đơn",
+      "hóa đơn vat",
+      "invoice",
+      "cung cấp hóa đơn"
+    ]
+  },
+  {
+    "label1": "Reward Program",
+    "label2": "Thu hồi điểm",
+    "definition": "Phản ánh việc bị trừ hoặc thu hồi điểm thưởng.",
+    "keywords": [
+      "thu hồi điểm", "bị trừ điểm",
+      "mất điểm", "revoke points"
+    ]
+  },
+  {
+    "label1": "Aftersales service",
+    "label2": "Dịch vụ thẻ",
+    "definition": "Phản ánh vận hành dịch vụ thẻ như sao kê, thanh toán.",
+    "keywords": [
+      "sao kê", "statement",
+      "trích nợ", "thanh toán thẻ",
+      "số dư khả dụng"
+    ]
+  },
+  {
+    "label1": "Collection",
+    "label2": "Nân viên thu hồi nợ",
+    "definition": "Phản ánh về nhân viên thu hồi nợ, nhắc nợ.",
+    "keywords": [
+      "thu hồi nợ", "đòi nợ",
+      "nhắc nợ", "nợ quá hạn",
+      "gọi đòi nợ", "đe dọa"
+    ]
+  },
+  {
+    "label1": "Staff (not include Call Center Agent)",
+    "label2": "Nhân viên hỗ trợ chung",
+    "definition": "Phản ánh về nhân viên hỗ trợ ngoài tổng đài.",
+    "keywords": [
+      "nhân viên hỗ trợ",
+      "staff", "support",
+      "không nhiệt tình",
+      "xử lý lâu"
+    ]
+  },
+  {
+    "label1": "Call Center",
+    "label2": "Kết nối với tổng đài",
+    "definition": "Phản ánh khó khăn khi liên hệ tổng đài.",
+    "keywords": [
+      "tổng đài", "hotline",
+      "khó gọi", "tổng đài bận",
+      "chờ lâu"
+    ]
+  },
+  {
+    "label1": "Call Center",
+    "label2": "Nhân viên tổng đài",
+    "definition": "Phản ánh thái độ và chất lượng hỗ trợ của tổng đài.",
+    "keywords": [
+      "nhân viên tổng đài",
+      "call center", "agent",
+      "thái độ kém",
+      "cúp máy", "treo máy"
+    ]
+  }
+]

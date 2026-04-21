@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Excel files (output)
+classified_*.xlsx
+
+# IDE
